@@ -15,13 +15,11 @@ I'm using Python 3, so here is my command to get kivy worked on my environment
 
 SET_KIVY_GLBACKEND = angle_sdl2
 
-'''
 python –m pip install docutils pygments pypiwin32 kivy.deps.sdl2 kivy.deps.glew
 python –m pip install kivy.deps.angle
 python –m pip install kivy
 python –m pip install kivy-examples
 python –m pip install kivy.deps.gstreamer **optional**
-'''
 
 # Contact
 I'm available mostly at Line and Telegram.
